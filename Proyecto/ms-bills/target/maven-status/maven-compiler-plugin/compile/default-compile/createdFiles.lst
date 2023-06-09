@@ -1,0 +1,5 @@
+com\dh\msbills\repositories\BillRepository.class
+com\dh\msbills\models\Bill.class
+com\dh\msbills\MsBillsApplication.class
+com\dh\msbills\controllers\BillController.class
+com\dh\msbills\services\BillService.class

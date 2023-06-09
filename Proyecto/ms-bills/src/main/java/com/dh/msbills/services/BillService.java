@@ -14,6 +14,7 @@ public class BillService {
     private final BillRepository repository;
 
     public List<Bill> getAllBill() {
-        return repository.findAll();
+        return
+                repository.findAll();
     }
 }
