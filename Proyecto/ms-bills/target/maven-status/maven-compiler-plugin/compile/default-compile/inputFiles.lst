@@ -1,5 +1,7 @@
 E:\HECTORJM\Proyectos\java\BackEndSegurity\Parcial\Proyecto\ms-bills\src\main\java\com\dh\msbills\MsBillsApplication.java
 E:\HECTORJM\Proyectos\java\BackEndSegurity\Parcial\Proyecto\ms-bills\src\main\java\com\dh\msbills\repositories\BillRepository.java
 E:\HECTORJM\Proyectos\java\BackEndSegurity\Parcial\Proyecto\ms-bills\src\main\java\com\dh\msbills\services\BillService.java
+E:\HECTORJM\Proyectos\java\BackEndSegurity\Parcial\Proyecto\ms-bills\src\main\java\com\dh\msbills\segurity\CustomJWTConverter.java
 E:\HECTORJM\Proyectos\java\BackEndSegurity\Parcial\Proyecto\ms-bills\src\main\java\com\dh\msbills\controllers\BillController.java
+E:\HECTORJM\Proyectos\java\BackEndSegurity\Parcial\Proyecto\ms-bills\src\main\java\com\dh\msbills\segurity\SecurityConfig.java
 E:\HECTORJM\Proyectos\java\BackEndSegurity\Parcial\Proyecto\ms-bills\src\main\java\com\dh\msbills\models\Bill.java

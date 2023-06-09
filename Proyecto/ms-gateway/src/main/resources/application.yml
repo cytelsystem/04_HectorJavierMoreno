@@ -14,7 +14,7 @@ spring:
           api-gateway-service:
             provider: keycloak-provider
             client-id: mspigateway-cliente
-            client-secret: x0FmMz8QN64D4EDslbaB5U9t1byh6DXO
+            client-secret: MvbhHV5OZIJsIFkRXIHbsR5Pr6nh2FfR
             scope: openid
             authorization-grant-type: authorization_code
             redirect-uri: http://localhost:8090/login/oauth2/code/keycloak
