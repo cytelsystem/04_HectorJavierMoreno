@@ -20,12 +20,14 @@ spring:
             redirect-uri: http://localhost:8090/login/oauth2/code/keycloak
   cloud:
     gateway:
+      default-filters:
+        - TokenRelay
       routes:
         - id: ms-bill
           uri: lb://ms-bill
           predicates:
             - Path=/api/v1/**
-      default-filters: TokenRelay
+
 
 eureka:
   instance:
